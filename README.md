@@ -5,7 +5,7 @@ Examples about Design Patterns to UNISATC Software Engineering
 Patterns Criacionais:
 
 - Factory Method
-- Abstract Factory
+- Abstract Factory 
 - Builder
 - Singleton
 
@@ -14,4 +14,5 @@ Patterns Estruturais:
 - Adapter
 - Bridge
 - Composite
+
 - Decorator
